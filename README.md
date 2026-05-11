@@ -115,7 +115,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🔍 Career Explorer
 
-![Career Explorer](Screenshot_2026-05-11_094817.png)
+![Career Explorer-0](careerexplorer.png)
 
 > *Searchable, filterable grid of 12+ career cards with match percentages, salary ranges, and demand indicators*
 
@@ -123,7 +123,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🗺️ Learning Roadmap
 
-![Learning Roadmap](Screenshot_2026-05-11_094826.png)
+![Learning Roadmap](roadmap.png)
 
 > *Gamified learning timeline with XP points, streak tracking, earned badges, and progress visualization*
 
@@ -131,7 +131,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🎓 College & Course Finder
 
-![College Finder](Screenshot_2026-05-11_094836.png)
+![College Finder](finder.png)
 
 > *AI-matched college cards with NIRF rankings, placement stats, fees, and ROI comparison bar chart*
 
@@ -139,7 +139,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🏆 Scholarship Discovery
 
-![Scholarship Discovery](Screenshot_2026-05-11_094846.png)
+![Scholarship Discovery](scholarship.png)
 
 > *4 scholarship cards with real-time countdown timers, eligibility filters, and one-click bookmarking*
 
@@ -147,7 +147,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 📄 AI Resume Builder
 
-![Resume Builder](Screenshot_2026-05-11_094855.png)
+![Resume Builder](resumebuilder.png)
 
 > *Split-panel editor with live preview, ATS score indicator, AI suggestions, and template switcher*
 
@@ -155,7 +155,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🎤 AI Mock Interview
 
-![Mock Interview](Screenshot_2026-05-11_094903.png)
+![Mock Interview](mockinterview.png)
 
 > *ARIA AI interviewer with countdown timer, live analytics radar, audio waveform, and real-time AI tips*
 
@@ -163,7 +163,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 💼 Jobs & Internships
 
-![Jobs Board](Screenshot_2026-05-11_094911.png)
+![Jobs Board](jobs&internship.png)
 
 > *AI-matched job cards with compatibility scores, company branding, filters, and quick-apply buttons*
 
@@ -171,7 +171,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 👨‍🏫 Expert Mentorship
 
-![Mentorship Platform](Screenshot_2026-05-11_094919.png)
+![Mentorship Platform](mentorship.png)
 
 > *Mentor profiles with ratings, live webinar banner, session booking system, and specialization tags*
 
@@ -179,7 +179,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 📈 Admin Dashboard
 
-![Admin Dashboard](Screenshot_2026-05-11_094954.png)
+![Admin Dashboard](adminpannel.png)
 
 > *Platform analytics with user growth line chart, revenue doughnut, user management table, and KPI cards*
 
@@ -187,7 +187,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### ⚙️ Settings Page
 
-![Settings Page](Screenshot_2026-05-11_095000.png)
+![Settings Page](settings.png)
 
 > *Account management, dark/light theme toggle, language selection, notifications, and privacy settings*
 
