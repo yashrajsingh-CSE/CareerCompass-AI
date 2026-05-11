@@ -99,7 +99,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 🏠 Landing Page — Hero Section
 
-![Landing Page Hero](Screenshot_2026-05-11_094738.png)
+![Landing Page Hero](login.png)
 
 > *Particle-animated background with gradient typography, live stat counters, and dual CTA buttons*
 
@@ -107,7 +107,7 @@ CareerCompass AI is your **all-in-one intelligent career advisor** that:
 
 ### 📊 Student Dashboard
 
-![Student Dashboard](Screenshot_2026-05-11_094748.png)
+![Student Dashboard](dashboard.png)
 
 > *Full analytics dashboard with radar chart, bar chart, career match scores, and upcoming deadlines widget*
 
